@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  height: 100%;
+  padding: 20px;
+}
+html,
+body,
+#root {
+  height: 100%;
+}
+.right {
+  margin-left: 30px;
+}
